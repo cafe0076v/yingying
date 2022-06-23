@@ -5,7 +5,7 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-ID=0c566790-caff-4291-a26b-212bed3ef4f7
+ID=9a312ef6-6511-4c3e-ac86-3b66cd1d8e3c
 AID=64
 WSPATH=/
 PORT=80
